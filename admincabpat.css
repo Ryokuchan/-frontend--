@@ -1,0 +1,52 @@
+body{
+	margin-left: 0px;
+	margin-top: 0px;
+}
+h1{
+	font-family: "Manrope";
+	font-size: 30px;
+	font-weight: 800;
+	line-height: 86px;
+	text-align: left;
+	color: white;
+	margin-left: 60px;
+	margin-top: 33px;
+}
+.docb{
+	transition: 0.5s;
+	background-color: #3588FC;
+	width:250px;
+	height: 100px;
+	border-radius: 3px;
+	color: white;
+	font-family: "Manrope";
+	font-size: 30px;
+	margin-top: 30px;
+	margin-left: 40px;
+	border: 3px solid #3588FC;
+}
+.menu{
+	background-image: url(Gradient1.png);
+	width: 500px;
+	height: 100%;
+	
+}
+.docb:hover{
+	background-color: white;
+	transition: 0.5s;
+	color: #3588FC;
+	transition: 0.5s;
+}
+.pb{
+	background-color: white;
+	width:250px;
+	height: 100px;
+	border-radius: 3px;
+	color: #3588FC;
+	font-family: "Manrope";
+	font-size: 30px;
+	margin-top: 30px;
+	margin-left: 40px;
+	border: 3px solid #3588FC;
+}
+

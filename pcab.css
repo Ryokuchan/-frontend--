@@ -1,0 +1,29 @@
+body{
+	background-image: url(Gradient.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	font-family: "Manrope";
+	font-size: 30px;
+	font-weight: 800;
+	line-height: 86px;
+	text-align: left;
+	color: #3588FC;
+	margin-left: 120px;
+	margin-top: 33px;
+}
+.b{
+	width: 700px;
+	height: 424px;
+	top: 188px;
+	left: 370px;
+	gap: 0px;
+	border-radius: 15px 0px 0px 0px;
+	opacity: 0px;
+	background-color: white;
+	border-radius: 15px;
+	margin-left: 370px;
+	margin-top: 80px;
+
+}

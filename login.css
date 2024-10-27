@@ -1,0 +1,65 @@
+h1{
+	font-family: "Manrope";
+	font-size: 30px;
+	font-weight: 800;
+	line-height: 86px;
+	text-align: left;
+	color: #3588FC;
+	margin-left: 120px;
+	margin-top: 33px;
+}
+.b{
+	width: 700px;
+	height: 424px;
+	top: 188px;
+	left: 370px;
+	gap: 0px;
+	border-radius: 15px 0px 0px 0px;
+	opacity: 0px;
+	background-color: white;
+	border-radius: 15px;
+	margin-left: 370px;
+	margin-top: 80px;
+
+}
+body{
+	background-image: url("Gradient.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+::placeholder{
+	color: #3588FC;
+	font-size: 20px;
+}
+input[type="text"]
+{
+    font-size:18px;
+    margin-left: 10px;
+}
+.inp{
+	transition: 0.5s;
+	width: 594px;
+	height: 48px;
+	background-color: #3588FC;
+	margin-left: 50px;
+	border-radius: 3px;
+	margin-top: 18px;
+	color: white;
+	font-size: 20px;
+	font-family: "Manrope";
+	border: 2px solid #3588FC;
+
+}
+.inp:hover{
+	background-color: white;
+	transition: 0.5s;
+	color: #3588FC;
+	transition: 0.5s;
+}
+.areg{
+	text-align: center;
+	margin-top: 250px;
+	margin-left: 280px;
+	font-size: 15px;
+	font-family: "Manrope";
+}

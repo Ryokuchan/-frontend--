@@ -1,0 +1,15 @@
+.ant-table-cell .FactPart-td {
+    margin-top: 7px;
+}
+
+.ant-table-cell .FactPart-td,
+.ant-table-cell .flex {
+    display: flex;
+}
+
+.ant-table-cell .FactPart-td span:first-of-type {margin-right: 5px;}
+.ant-table-cell .FactPart-td span:last-of-type  {margin-left: 5px;}
+
+.ant-table-cell span {
+    display: block;
+}
